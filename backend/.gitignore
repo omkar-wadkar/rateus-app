@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Database files
+*.sqlite
+database.sqlite
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
